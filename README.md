@@ -18,9 +18,3 @@ Security policies are critical for establishing governance, reducing risk, and g
 - Policy development to reduce risk and strengthen compliance  
 
 ---
-
-## Author  
-**Mohammed Hamadi**  
-- Google Cybersecurity Professional Certificate | CompTIA Security+ | CS50 Cybersecurity  
-- [📂 GitHub Portfolio](https://github.com/mhamadii)  
-- [🔗 LinkedIn](https://www.linkedin.com/in/mohammedhamadi)  
